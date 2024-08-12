@@ -2,7 +2,7 @@
 
 ## Description
 
-Build a COMPLETE Fullstack Responsive MERN (MongoDB, Express.js, React.js, Node.js) App with Authentication, Likes, and Dark Mode features. This project showcases a robust implementation of a social media application using modern web technologies.
+A Complete Fullstack Responsive MERN (MongoDB, Express.js, React.js, Node.js) App with Authentication, Likes, and Dark Mode features. This project showcases a robust implementation of a social media application using modern web technologies.
 
 ## Features
 
@@ -22,26 +22,27 @@ Build a COMPLETE Fullstack Responsive MERN (MongoDB, Express.js, React.js, Node.
 
 ## Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mahmoudhusam/social-media-mern-app.git
 
-2. **Navigate to the Project Directory:**:
+2. **Navigate to the Project Directory:**
    ```bash
    cd social-media-mern-app
 
-3. **Install Dependencies for Backend:**:
+3. **Install Dependencies for Backend:**
    ```bash
    cd server
    npm install
 
 
-4. **Install Dependencies for Frontend:**:
+4. **Install Dependencies for Frontend:**
    ```bash
    cd ../client
    npm install
 
-5. **Set Up Environment Variables:**:
+5. **Set Up Environment Variables:**
+
    Create a .env file in the server directory and add your environment variables (e.g., MONGO_URI, JWT_SECRET).
 
 6. **Run the Application:**:
